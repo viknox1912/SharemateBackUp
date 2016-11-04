@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="36fd4c4c09c339a9e8fb607cba1d067eb19dcb17">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ae2e58a689903642ed1b4b157ddc3acf347f75a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.7.0_6a041901a3d8ca0a7226321e406de26dda724750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\library-1.0.19_91a9ac8182741dc39930523e0b22c8a2fd6f1170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_ca7f3025b6010abb6582daae366b012cca16747a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_bb9ee2c03bd4f7aef7b953a9cc6523030cde28b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_65c1ea0391787fbdcc0d370ec12db514a58f47d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_dbd473984d4bc0ef7a51b258a4062a339e6a0c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d9ee827c7ab3558dec9f36fc636f71ac08f63918">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\instant-run_425137818ff31510a22071bc01455265303ebe7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_8a87f8aae3b26a7ff950900f4100e945ac21c5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_c40b68e0f63f9683299b27071e7b0b70e49264b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_c6271b4ee761ff6d95d3c965fd1d3a810a050875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_5b4ab6539daebe61324a96ad04d2ddb80b247fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_12bdc9c8e00718a9be2a7b2e4bd489c5f1873e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_61d15743fc3525309082540f6539ceda7f3d2e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_99e516c80b0d9ebf812ddc20edd307901e2c2b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_d652c8feda59cefd345309d9fdb84df0e350dbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_d25b8922a5528f3dbbe1b54eda0f75fab3f216c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_46ce460722d5f9c8ad282668cd03ede570a01d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_0b07ae87ec06e98444e3bef80a12af49ba934fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8665873b049fc30f99898022dc6ca8587811b0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_8a8962ad1e7e0b804e6af3b98294039179e7c3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a0eaed5af22610281bd55d4c8a3f6f877cbca1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\x230\Downloads\GiuSharemate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_0c57e0ea459c1919226784bb8bd1c130391a5f0a.jar" />
+    </item>
+
+</items>

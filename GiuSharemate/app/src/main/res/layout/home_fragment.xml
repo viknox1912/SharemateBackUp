@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="top|center">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/search_frame"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="160dp"
+                android:layout_height="195dp"
+                android:id="@+id/btn_search"
+                android:src="@drawable/ic_sog"
+                android:background="@drawable/button_border"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center|top"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/chat_frame"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="160dp"
+                android:layout_height="195dp"
+                android:id="@+id/btn_chat"
+                android:background="@drawable/button_border"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/ic_chat"
+                android:layout_gravity="center|top"
+                 />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom|center">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/groupsBtn_frame"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_width="160dp"
+                android:layout_height="195dp"
+                android:id="@+id/btn_groups"
+                android:background="@drawable/button_border"
+                android:src="@drawable/ic_groups"
+                android:padding="50dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center|bottom"
+                android:clickable="true" />
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/settings_frame">
+
+            <ImageButton
+                android:layout_width="160dp"
+                android:layout_height="195dp"
+                android:id="@+id/btn_settings"
+                android:background="@drawable/button_border"
+                android:src="@drawable/ic_settings"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center|bottom"/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
